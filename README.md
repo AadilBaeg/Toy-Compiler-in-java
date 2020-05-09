@@ -1,5 +1,5 @@
 # Toy Compiler in java
-We developed a toy compiler as a project in Compiler Design course of our 6th semester. It was done in a group of five members. Each phase of compilation has been done by each members. **Compiler1** is the complete code. **toy compiler.pdf** has document explanation associated with it. Video explanation is also there with google drive link.
+We developed a toy compiler as a project in Compiler Design course of our 6th semester. It was done in a group of five members. Each phase of compilation has been done by each members. **Compiler1** is the complete code. **toy compiler.pdf** has document explanation associated with it. We left out the *Code Optimser phase* and *Target Code Generation phase* as that was not required by the instructor. Video explanation is also there with google drive link.
 
 Following are the timecodes for the video: <br />
 00.00 - 2.00 -- Introduction and Grammar <br />
